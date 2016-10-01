@@ -2,10 +2,13 @@
   "name": "workflow",
   "version": "0.0.1",
   "description": "A project to showcase workflow",
-  
   "repository": {
     "type": "git",
     "url": "?.git"
   },
-  "author": "Faz Beni"
+  "author": "Faz Beni",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7"
+  }
 }
